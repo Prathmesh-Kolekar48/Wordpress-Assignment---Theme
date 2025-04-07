@@ -10,7 +10,7 @@ get_header(); ?>
           Evernote has the right plan for you.</p>
       </div>
 
-      <div class="pricing-table content-area">
+      <div class="pricing-table wordpress-content-area">
         <div class="plan free">
           <h2>Free</h2>
           <h3>$0</h3>

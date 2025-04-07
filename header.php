@@ -25,8 +25,8 @@
   );
   ?>
     <div class="buttons">
-      <button>Login</button>
-      <button>Try whitepace free <img src=<?php echo get_stylesheet_directory_uri() . "/assets/svgs/arrow.svg" ?>
+      <a href="<?php echo get_home_url().'/login' ?>"><button>Login</button></a>
+      <button class="try-free">Try whitepace free <img src=<?php echo get_stylesheet_directory_uri() . "/assets/svgs/arrow.svg" ?>
           alt=""></button>
     </div>
     <img class="toggle" src=<?php echo get_stylesheet_directory_uri() . "/assets/svgs/menu.svg" ?> alt="menu" >

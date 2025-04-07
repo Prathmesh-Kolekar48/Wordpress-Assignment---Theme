@@ -1,7 +1,7 @@
 
 <?php get_header(); ?>
 
-<div class="container content-area">
+<div class="container wordpress-content-area">
     <div class="error-404">
         <h1>404</h1>
         <h2>Page Not Found</h2>

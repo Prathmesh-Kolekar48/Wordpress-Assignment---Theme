@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="container content-area">
+<div class="container wordpress-content-area">
     <div class="posts-grid">
         <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <div class="post-card">
